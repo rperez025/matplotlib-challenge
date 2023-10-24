@@ -29,6 +29,7 @@ During the challenge I referenced the following to aid in the understanding and 
 3. I also performed additional online research to gain more understanding of the following topics:
    * [Standard Error of the Mean](https://statisticsbyjim.com/hypothesis-testing/standard-error-mean/)
    * [Interquartile Range and Quartile Deviation](https://www.geeksforgeeks.org/interquartile-range-and-quartile-deviation-using-numpy-and-scipy/)
+   * [Matplotlib Documentation page](https://matplotlib.org/stable/gallery/statistics/boxplot_demo.html)
    * [How to adjust markers in box plots](https://stackoverflow.com/questions/43342564/flier-colors-in-boxplot-with-matplotlib)
 
 4. I also used the following code as reference for performing my assignment. Specifically, I would review the code and gain an understanding of its organization and use. I would then take that understanding and incorporate my knowledge and practice from the class activities and instructor videos to write my script included "pymaceuticals_starter_RP.ipynb".
